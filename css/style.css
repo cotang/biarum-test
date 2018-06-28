@@ -613,6 +613,7 @@ img {
 }
 
 .header {
+  display: block;
   background-color: #3f4049;
   width: 100%;
   position: fixed;
